@@ -1,3 +1,5 @@
+#this is a password generator
+
 import random
 
 letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
